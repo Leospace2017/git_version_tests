@@ -1,4 +1,8 @@
 commit3
 
 
+<<<<<<< HEAD
 conflict2
+=======
+conflict
+>>>>>>> conflict
